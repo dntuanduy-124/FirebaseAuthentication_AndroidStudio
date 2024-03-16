@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544581190664",
+    "project_id": "fastdeli-5cee0",
+    "storage_bucket": "fastdeli-5cee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544581190664:android:acb62be37ea8734d7d7dbd",
+        "android_client_info": {
+          "package_name": "com.example.fastdeli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrYyM-5NyEMC5xdbO5aTJob7y9DZyizUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
