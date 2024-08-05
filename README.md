@@ -1,4 +1,4 @@
-Hello everyone,in this project I'm using firebase 
+Hello everyone,in this project. I'm using firebase 
 
 
 I demo my project here 
